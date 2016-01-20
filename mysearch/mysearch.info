@@ -1,0 +1,4 @@
+name = My Search module
+core = 7.x
+package = "FFW"
+version = "7.x-0.1"
